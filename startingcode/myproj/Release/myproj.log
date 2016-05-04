@@ -1,0 +1,74 @@
+﻿Build started 04/05/2016 15:00:48.
+     1>Project "U:\Algo Geometrique\OPENGL\OpenGL-master\OpenGL-master\startingcode\myproj\myproj.vcxproj" on node 2 (Build target(s)).
+       Project file contains ToolsVersion="14.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\myproj.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(142): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(143): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(144): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(161): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(162): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(163): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(176): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(177): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(256): warning C4018: '<' : signed/unsigned mismatch
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(354): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(355): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(356): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(358): warning C4244: '/=' : conversion from 'double' to 'float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(359): warning C4244: '/=' : conversion from 'double' to 'float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(360): warning C4244: '/=' : conversion from 'double' to 'float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(386): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(387): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(388): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(461): warning C4018: '<' : signed/unsigned mismatch
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(501): warning C4018: '<' : signed/unsigned mismatch
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(506): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(520): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(521): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(523): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(524): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(539): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(540): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\myObject3D.h(586): warning C4101: 'k' : unreferenced local variable
+     1>main.cpp(34): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>main.cpp(146): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(147): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(150): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(151): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(155): warning C4018: '<' : signed/unsigned mismatch
+     1>main.cpp(161): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>main.cpp(170): warning C4018: '<' : signed/unsigned mismatch
+     1>main.cpp(176): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>main.cpp(223): warning C4244: 'argument' : conversion from 'GLfloat' to 'const int', possible loss of data
+     1>main.cpp(263): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+     1>main.cpp(281): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>main.cpp(293): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>main.cpp(296): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(299): warning C4244: '=' : conversion from 'const double' to 'GLfloat', possible loss of data
+     1>main.cpp(300): warning C4244: '=' : conversion from 'const double' to 'GLfloat', possible loss of data
+     1>main.cpp(301): warning C4244: '=' : conversion from 'const double' to 'GLfloat', possible loss of data
+     1>main.cpp(306): warning C4244: '=' : conversion from 'const double' to 'GLfloat', possible loss of data
+     1>main.cpp(307): warning C4244: '=' : conversion from 'const double' to 'GLfloat', possible loss of data
+     1>main.cpp(308): warning C4244: '=' : conversion from 'const double' to 'GLfloat', possible loss of data
+         GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+         GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"U:\Algo Geometrique\OPENGL\OpenGL-master\OpenGL-master\startingcode\Release\myproj.exe" /INCREMENTAL:NO /NOLOGO freeglut.lib glu32.lib opengl32.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"U:\Algo Geometrique\OPENGL\OpenGL-master\OpenGL-master\startingcode\Release\myproj.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"U:\Algo Geometrique\OPENGL\OpenGL-master\OpenGL-master\startingcode\Release\myproj.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Release\myproj.obj
+         Release\myTexture.obj
+         Release\point3d.obj
+         Release\shaders.obj
+         Release\stdafx.obj
+         Release\vector3d.obj
+     1>LINK : warning LNK4067: ambiguous entry point; selected 'mainCRTStartup'
+         Generating code
+     1>u:\algo geometrique\opengl\opengl-master\opengl-master\startingcode\myproj\mytexture.cpp(67): warning C4715: 'myTexture::readTexture' : not all control paths return a value
+         Finished generating code
+         myproj.vcxproj -> U:\Algo Geometrique\OPENGL\OpenGL-master\OpenGL-master\startingcode\Release\myproj.exe
+     1>Done Building Project "U:\Algo Geometrique\OPENGL\OpenGL-master\OpenGL-master\startingcode\myproj\myproj.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:25.28
